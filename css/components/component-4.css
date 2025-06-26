@@ -32,6 +32,7 @@
 }
 .program-list li img{
     box-shadow: 0 15px 100px 0 rgba(0, 0, 0, 0.05);
+ width: 33rem;
 }
 .c4-lesson{
     background-image: url(../../images/c4-les-bg.png);
