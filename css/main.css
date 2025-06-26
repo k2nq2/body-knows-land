@@ -193,6 +193,7 @@ color: #dfecfb;
     font-family: var(--third-family);
     font-size: 2.4rem;
     border: 1px solid #000;
+    padding-top:0.5rem;
 }
 .timer-name{
     font-family: "Montserrat";
