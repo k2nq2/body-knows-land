@@ -34,7 +34,7 @@
     transform: translateY(-50%);
 }
 .slide img {
-    width: 98%;
+    width: 95%;
     height: fit-content;
     object-fit: cover;
     border-radius: 2rem;
