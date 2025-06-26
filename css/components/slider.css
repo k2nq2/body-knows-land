@@ -5,6 +5,7 @@
 }
 .slides {
     display: flex;
+    align-items:center;
     width: 100%;
     transition: transform 0.5s ease-in-out;
 }
@@ -17,7 +18,7 @@
     align-items: center;
     position: relative;
     flex-shrink: 0;
-   
+   height:fit-content;
 }
 .slide-play{
     width: 7rem;
